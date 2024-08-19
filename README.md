@@ -7,7 +7,7 @@
 - 👋 Hi, I'm Tran Ngoc Duong.
 - 🎂 I was born on June 3, 2001.
 - 👨‍💻 I'm a web developer.
-- 🇻🇳  I'm from Vietnamese.
+- 🇻🇳  I come from Vietnam.
 
 ## 📧 How to reach me:
 
